@@ -1,6 +1,6 @@
 apiVersion: "example.com/v1"
 kind: Cluster
 metadata:
-  name: my-cluster
+  name: walmart-cluster
 spec:
   name: "my-cluster-name"
