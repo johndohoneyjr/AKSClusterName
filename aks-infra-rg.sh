@@ -1,3 +1,5 @@
+#! /bin/bash
+
 # Variables
 AKS_RG="walmart-cluster"  # Replace with your resource group name
 AKS_NAME="walmartaks"  # Replace with your AKS cluster name
